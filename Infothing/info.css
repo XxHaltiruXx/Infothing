@@ -1,0 +1,40 @@
+body {
+    background-image: url(bgc.jpg);
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    background-color: gray;
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    padding: 1rem;
+    border: rgb(106, 106, 106) 15px solid;
+    border-radius: 20px;
+    box-shadow: 8px 8px 8px black;
+}
+
+p {
+    text-align: justify;
+    text-align-last: center;
+}
+
+img {
+    border: solid 3px black;
+}
+
+.nm {
+    float: left;
+    box-sizing: border-box;
+    display: block;
+    margin: 20px;
+}
+
+.nms {
+    margin: 70px;
+    margin-left: 290px;
+}
